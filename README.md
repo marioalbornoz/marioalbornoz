@@ -2,9 +2,9 @@
 
 Algo sobre mi...
 
-- 🔭 Actualmente estoy desarrollando mi trabajo de titulo, enfocado en el seguimiento de los alumnos de mi universidad. ...
+- 🔭 Actualmente estoy desarrollando mi trabajo de titulo, enfocado en el seguimiento de los alumnos de mi universidad.
 - 🌱 Aprendiendo tecnologias de frontend.
-- 👯 Pendiente de colaboprar en comunidades de desarrollo.
+- 👯 Pendiente de colaborar en comunidades de desarrollo.
 - 💬 Escribeme!
 <!-- 🤔 I’m looking for help with ...
 
